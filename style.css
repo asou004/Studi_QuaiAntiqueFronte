@@ -1,0 +1,63 @@
+/*     Definition couleur    */
+
+.button-brown {
+    background-color: #906427;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 1.1em;
+    width: 150px;
+    height: 50px;
+}
+
+.bg-brown {
+    background-color: #392C1E;
+}
+
+.bg-brown-light {
+    background-color: #B6AC97;
+}
+
+.bg-primar {
+    background-color: #906427;
+}
+
+.text-primare {
+    color: #906427;
+    
+     
+}
+
+.bg-brown-sombre {
+    background-color: #292222;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+
+
+
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+main {
+    margin-bottom: 250px;
+}
+
+footer {
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+p {
+    font-family: "Hind Madurai" serif;
+    font-size: 18px;
+}
+
